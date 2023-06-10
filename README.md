@@ -30,6 +30,14 @@
 - Opening the Vivado project: After cloning this repo, open Vivado and select `Open Project` in the Quick Start menu. Then select `<path to repo>/graycode/graycode_vivado_prj/graycode_vivado_prj.xpr` to open the project.
 - Using Vitis: Set the workspace directory to `<<path to repo>/workspace/>`.
 
+## Notable Bugs found in Vivado
+
+On Ubuntu: Block design validation only works when **Region and Language** is set to US. 
+
+1) Go to Setting -> Region and Language -> Formats
+
+2) Choose United States as input to avoid Errors during block validation.
+
 ## Basic Git usage:
 
 - To create a local copy of a repository use `git clone`, e.g.
