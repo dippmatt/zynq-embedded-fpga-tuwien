@@ -6,3 +6,11 @@
 11:34:20 INFO  : Successfully done setting XSCT server connection channel  
 11:34:20 INFO  : Successfully done setting workspace for the tool. 
 11:34:20 INFO  : Successfully done query RDI_DATADIR 
+13:04:23 INFO  : Launching XSCT server: xsct -n  -interactive /home/matthias/Documents/Master/embedded_systems_in_FPGAs/zynq-embedded-fpga-tuwien/workspace/temp_xsdb_launch_script.tcl
+13:04:23 INFO  : Registering command handlers for Vitis TCF services
+13:04:25 INFO  : Platform repository initialization has completed.
+13:04:26 INFO  : XSCT server has started successfully.
+13:04:26 INFO  : plnx-install-location is set to ''
+13:04:26 INFO  : Successfully done setting XSCT server connection channel  
+13:04:26 INFO  : Successfully done query RDI_DATADIR 
+13:04:26 INFO  : Successfully done setting workspace for the tool. 
